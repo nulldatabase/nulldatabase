@@ -1,16 +1,23 @@
-## Hi there 👋
+# your-username
 
-<!--
-**nulldatabase/nulldatabase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer interested in systems, backend infrastructure, and building things that last.
 
-Here are some ideas to get you started:
+```text
+focus       systems / backend / infrastructure
+languages   Go · Rust · Python
+environment Linux · Git · Docker · PostgreSQL
+currently   building [your current project]
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Selected work
+
+- **[project-name](https://github.com/your-username/project-name)** — One precise sentence about what it does.
+- **[project-name](https://github.com/your-username/another-project)** — One precise sentence about the engineering behind it.
+
+### Elsewhere
+
+[Website](https://example.com) · [LinkedIn](https://linkedin.com/in/your-profile)
+
+---
+
+*Build quietly. Ship deliberately.*
