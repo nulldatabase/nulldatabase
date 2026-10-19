@@ -14,6 +14,7 @@ BUILD       AI-assisted development
 REFINE      Quality · Usability · Iteration
 ```
 ### Tools
+![Classmate Preview](./1_-XxnZHSSMwGZJ9LyfRea8Q (1).png)
 
 ### Selected work
 
