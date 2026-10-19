@@ -1,5 +1,4 @@
-# your-username
-
+# Krissiri
 Software engineer interested in systems, backend infrastructure, and building things that last.
 
 ```arm
@@ -11,8 +10,8 @@ currently   building [your current project]
 
 ### Selected work
 
-- **[project-name](https://github.com/your-username/project-name)** — One precise sentence about what it does.
-- **[project-name](https://github.com/your-username/another-project)** — One precise sentence about the engineering behind it.
+- **[Classmate](https://github.com/your-username/project-name)** — An all-in-one learning platform that makes school life easier by organizing homework, class schedules, and study notes in one place.
+- **[Stock-Dashboard](https://github.com/your-username/another-project)** — Built with a responsive web architecture, real-time market data APIs, interactive stock charts, and a secure data-processing layer for tracking prices, portfolio performance, and market trends.
 
 ### Elsewhere
 
