@@ -15,7 +15,7 @@ REFINE      Quality · Usability · Iteration
 ```
 ### Tools
 <p align="left">
-  <img src="./1_-XxnZHSSMwGZJ9LyfRea8Q (1).png" width="400" alt="AI Tools" />
+  <img src="./1_-XxnZHSSMwGZJ9LyfRea8Q.png" width="400" alt="AI Tools" />
 </p>
 
 ### Selected work
