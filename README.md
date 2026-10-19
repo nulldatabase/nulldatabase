@@ -13,7 +13,6 @@ DESIGN      UX · UI · Product experience
 BUILD       AI-assisted development
 REFINE      Quality · Usability · Iteration
 ```
-
 ### Selected work
 
 - **[Classmate](https://github.com/your-username/project-name)** — An all-in-one learning platform that makes school life easier by organizing homework, class schedules, and study notes in one place.
