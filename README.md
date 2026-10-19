@@ -14,8 +14,6 @@ BUILD       AI-assisted development
 REFINE      Quality · Usability · Iteration
 ```
 ### Tools
-`Claude` · `Gemini`
-
 <p align="left">
   <img src="./1_-XxnZHSSMwGZJ9LyfRea8Q (1).png" width="400" alt="AI Tools" />
 </p>
