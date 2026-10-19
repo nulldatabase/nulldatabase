@@ -1,11 +1,16 @@
 # Krissiri
-Software engineer interested in systems, backend infrastructure, and building things that last.
+AI · Product · Systems
 
+I turn ideas into products with AI.
+
+Focused on product thinking, design, and execution — from defining what should be built to refining how it works and feels.
+
+I care about the details, the decisions behind them, and the quality of the final product.
 ```arm
-focus       systems / backend / infrastructure
-languages   Go · Rust · Python
-environment Linux · Git · Docker · PostgreSQL
-currently   building [your current project]
+THINK       Product direction · Problem solving
+DESIGN      UX · UI · Product experience
+BUILD       AI-assisted development
+REFINE      Quality · Usability · Iteration
 ```
 
 ### Selected work
@@ -19,4 +24,4 @@ currently   building [your current project]
 
 ---
 
-*Build quietly. Ship deliberately.*
+*Build with intent. Refine with purpose.*
