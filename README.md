@@ -2,7 +2,7 @@
 
 Software engineer interested in systems, backend infrastructure, and building things that last.
 
-```text
+```arm
 focus       systems / backend / infrastructure
 languages   Go · Rust · Python
 environment Linux · Git · Docker · PostgreSQL
