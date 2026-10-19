@@ -7,7 +7,6 @@ Focused on product thinking, design, and execution — from defining what should
 
 I care about the details, the decisions behind them, and the quality of the final product.
 
-# APPROACH
 ```arm
 THINK       Product direction · Problem solving
 DESIGN      UX · UI · Product experience
