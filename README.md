@@ -1,4 +1,4 @@
-# Krissiri
+# nulldatabase
 AI · Product · Systems
 
 I turn ideas into products with AI.
